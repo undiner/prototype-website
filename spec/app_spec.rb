@@ -17,4 +17,8 @@ it 'displays the company name: Prototype Inc' do
   get '/'
   expect(last_response.body).to include "Prototype Inc."
 end
+it 'displays the correct content' do
+  get '/'
+  expect(last_response.body).to include "Home of the World's Best Prototypes"
+end
 end
