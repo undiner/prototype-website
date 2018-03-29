@@ -6,9 +6,6 @@ get '/' do
   erb :index
 end
 
-get '/names' do
-  'Gill and Undine'
-end
 
 
 
