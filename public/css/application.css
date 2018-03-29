@@ -4,3 +4,10 @@
     border: solid 2px #BEE3BD;
     color: #555B6E;
 }
+.navbar {
+  border: solid 2px #BEE3BD;
+  background-color: #FAF9F9;
+}
+p, h2 {
+  font-family: 'Cookie', cursive;
+}
