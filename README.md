@@ -1,5 +1,5 @@
-Prototype website
-========================
+PROTOTYPE WEBSITE
+=================
 
-Built by Gill and Undine
-I would like to be an awesome developer
+The Best Prototype Website Ever
+
